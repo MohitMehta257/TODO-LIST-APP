@@ -3,8 +3,4 @@ In this project, i have built a to-do-list app which is a <strong>full stack web
 
 
 <h1>Technology used:</h1>
-HTML 
-CSS 
-MongoDB
-Node.js
-React.js
+HTML, CSS, MongoDB, Node.js, React.js
